@@ -1,0 +1,14 @@
+﻿[
+  {
+    "outputFile": "Content/css/blocks/layout.css",
+    "inputFile": "Content/css/blocks/layout.scss"
+  },
+  {
+    "outputFile": "Content/css/settings/constants.css",
+    "inputFile": "Content/css/settings/constants.scss"
+  },
+  {
+    "outputFile": "Content/css/blocks/note.css",
+    "inputFile": "Content/css/blocks/note.scss"
+  }
+]

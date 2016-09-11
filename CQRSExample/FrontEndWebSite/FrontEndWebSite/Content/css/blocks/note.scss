@@ -1,0 +1,37 @@
+﻿@import "../settings/constants.scss";
+
+.note {
+    align-self: center;
+    max-width: 80%;
+    color: #000000;
+    text-decoration: none;
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+.note--bordered {
+    border: 1px solid $logo-primary-color;
+    padding: 15px 15px;
+}
+
+.note__title {
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+.note__date {
+    font-style: italic;
+    color: $text-nutral-color;
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+.note__content {
+    color: $text-secondary-color;
+    &:hover {
+        text-decoration: none;
+    }
+}
